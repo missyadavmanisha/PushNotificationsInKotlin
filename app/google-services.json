@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291627763102",
+    "firebase_url": "https://pushnotificationsinkotlin.firebaseio.com",
+    "project_id": "pushnotificationsinkotlin",
+    "storage_bucket": "pushnotificationsinkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291627763102:android:cdfbacdf06df016c8d828f",
+        "android_client_info": {
+          "package_name": "net.geeksforgeeks.pushnotificationsinkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291627763102-tsm5n2ei51h53krgcu12h280r4stkk5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.geeksforgeeks.pushnotificationsinkotlin",
+            "certificate_hash": "d4a2fc09ceaaf18de14a42d1ea3fa95a29e7bb9c"
+          }
+        },
+        {
+          "client_id": "291627763102-pds1g18qq4ih7h5gse3hrnttfelp30p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVXZXSscUGUTjgrFb-EDBD8Jl1jMQ024"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291627763102-pds1g18qq4ih7h5gse3hrnttfelp30p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
